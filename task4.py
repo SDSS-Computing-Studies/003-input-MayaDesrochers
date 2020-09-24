@@ -12,7 +12,7 @@
 # hypotenuse
 #
 # Test output
-# input sides of 5 and 7 should give hypotenuse of 8.602325267042672
+# input sides of 5 and 7 should give hypotenuse of 8.60232526704
 a=input("Enter side a")
 b=input("Enter side b")
 a=int(a)

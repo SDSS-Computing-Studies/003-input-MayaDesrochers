@@ -19,5 +19,7 @@ a=int(a)
 b=int(b)
 c=int(c)
 x=(c-b)/a
+x=int(x)
 print(x)
+
 
