@@ -15,11 +15,11 @@
 a=input("Enter value a")
 b=input("Enter value b")
 c=input("Enter value c")
-a=int(a)
-b=int(b)
-c=int(c)
+a=float(a)
+b=float(b)
+c=float(c)
 x=(c-b)/a
-x=int(x)
+x=float(x)
 print(x)
 
 
